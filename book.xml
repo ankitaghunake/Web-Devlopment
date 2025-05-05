@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="Rule.css"?>
+<?xml-stylesheet type="text/xsl" href="library.xsl"?>
+<library>
+    <heading>Welcome To Book World!!</heading>
+
+    <book> 
+        <title>Mrutyunjay</title> 
+        <author>Shivaji Sawant</author>
+        <year>1967</year> 
+        <publisher>Continental Prakashan</publisher> 
+        <price>450</price> 
+    </book> 
+
+    <book> 
+        <title>Yayati</title> 
+        <author>V. S. Khandekar</author> 
+        <year>1959</year>
+        <publisher>Mehta Publishing House</publisher> 
+        <price>400</price> 
+    </book> 
+
+    <book> 
+        <title>Batatyachi Chaal</title> 
+        <author>P. L. Deshpande</author> 
+        <year>1950</year>
+        <publisher>Mauj Prakashan</publisher> 
+        <price>200</price> 
+    </book> 
+
+    <book> 
+        <title>Kosala</title> 
+        <author>Bhalchandra Nemade</author>
+        <year>1963</year> 
+        <publisher>Popular Prakashan</publisher> 
+        <price>350</price> 
+    </book> 
+
+    <book> 
+        <title>Partner</title> 
+        <author>V. P. Kale</author> 
+        <year>1970</year>
+        <publisher>Mauj Prakashan</publisher> 
+        <price>270</price> 
+    </book> 
+
+</library>

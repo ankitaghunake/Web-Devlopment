@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<class>
+<student rollno = "135">
+      <firstname>Ankita</firstname> 
+      <lastname>Ghunake</lastname> 
+      <nickname>Chinu</nickname> 
+      <marks>96</marks>
+</student> 
+<student rollno = "84">
+      <firstname>Divya</firstname> 
+      <lastname>Sutar</lastname> 
+      <nickname>Sonu</nickname> 
+      <marks>92</marks>
+</student> 
+<student rollno = "102">
+      <firstname>Revatee</firstname> 
+      <lastname>Gatage</lastname> 
+      <nickname>Revaa</nickname> 
+      <marks>85</marks>
+</student> 
+</class>
+

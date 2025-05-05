@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="CarStyle.css"?>
+<carShowroom>
+    
+   <heading>Welcome To Speed Wheels Showroom!!</heading>
+
+    <car>
+        <model>Swift</model>
+        <manufacturer>Maruti Suzuki</manufacturer>
+        <year>2023</year>
+        <fuelType>Petrol</fuelType>
+        <price>700000</price>
+    </car>
+    <car>
+        <model>Suzuki</model>
+        <manufacturer>Maruti Suzuki</manufacturer>
+        <year>1990</year>
+        <fuelType>Petrol</fuelType>
+        <price>65000</price>
+    </car>
+   
+    <car>
+        <model>Creta</model>
+        <manufacturer>Hyundai</manufacturer>
+        <year>2024</year>
+        <fuelType>Diesel</fuelType>
+        <price>1200000</price>
+    </car>
+   
+    <car>
+        <model>Boxer</model>
+        <manufacturer>Ramen</manufacturer>
+        <year>1950</year>
+        <fuelType>Petrol</fuelType>
+        <price>85000</price>
+    </car>
+
+    <car>
+        <model>Fortuner</model>
+        <manufacturer>Toyota</manufacturer>
+        <year>2024</year>
+        <fuelType>Diesel</fuelType>
+        <price>3500000</price>
+    </car>
+   
+ </carShowroom>

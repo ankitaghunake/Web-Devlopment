@@ -1,0 +1,32 @@
+library { 
+    color: black; 
+   
+    background-color: lightyellow; 
+    width: 100%; 
+    padding: 20px; 
+} 
+
+heading { 
+    color: darkblue; 
+    font-size: 40px; 
+    background-color: lightcyan; 
+} 
+
+heading, title, author,year, publisher, price { 
+    display:table-row-group; 
+} 
+
+title { 
+    font-size: 25px; 
+    font-weight: bold; 
+    color: maroon;
+}
+
+book{
+    display: block;
+    border: 1px solid gray;
+    background-color: lightgray;
+    padding: 15px;
+
+}
+

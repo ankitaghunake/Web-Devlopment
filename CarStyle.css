@@ -1,0 +1,33 @@
+
+carShowroom {
+    display: block;
+    font-family: Arial;
+    background-color:wheat;
+    color: black;
+    padding: 20px;
+    
+    
+}
+
+heading {
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: darkgreen;
+    
+}
+
+car {
+    display: block;
+    border: 1px solid gray;
+    background-color: lightgray;
+    padding: 15px;
+    
+}
+
+model, manufacturer, year, fuelType, price {
+    display: block;
+    margin: 5px ;
+    font-size: 16px;
+}
